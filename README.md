@@ -1,27 +1,25 @@
 ---
-description: 'Using the guide template, I created...asdfasdfsdf'
+description: so nice
 ---
 
-# SUPER SUPER DUPER
+# So such many
 
-## Getting Super Powers
+## Cool
 
 Becoming a super hero is a fairly straight forward process:
 
 ```
-$ give me super-powers asdflkj sadlfkj sadlfkj asdlkfj sadlkfj sadlkfj sadlkfj lsadkfj lasdkfj
-
+$ lol -!
 ```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% hint style="success" %}
+ Super-powers are granted!
 {% endhint %}
 
 Once you're strong enough, save the world:
 
 ```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+// lol
 ```
 
 
